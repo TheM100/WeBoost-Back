@@ -7,9 +7,9 @@ const PORT = 3001;
 const routes = require('./src/routes/routes')
 
 const allowedOrigins = [
-  "http://localhost:3001",
-  "http://localhost:3000",
-  "https://sunrise-adventure-in-magbay.vercel.app"
+  "http://localhost:5173",
+  "http://localhost:5174",
+  "https://www.webooost.it.com"
   
 ];
 
